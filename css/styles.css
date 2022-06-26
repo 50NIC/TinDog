@@ -190,6 +190,9 @@ span{
     padding: 5% 5%;
   }
   
+  p{
+  color: black;
+  }
 }
 
 @media (max-width: 768px){
