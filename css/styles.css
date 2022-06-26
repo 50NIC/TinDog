@@ -181,14 +181,6 @@ span{
     position: static;
     transform: rotate(0);
   }
-  
-  .pricing-column {
-    font-size: 1.5rem;
-  }
-  
-  #pricing {
-    padding: 5% 5%;
-  }
 }
 
 @media (max-width: 768px){
